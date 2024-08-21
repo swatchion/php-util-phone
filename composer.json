@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "Query phone location",
   "type": "library",
-  "homepage": "https://github.com/swatchion/php-phone",
+  "homepage": "https://github.com/swatchion/php-util-phone",
   "authors": [
     {
       "name": "swatchion",
