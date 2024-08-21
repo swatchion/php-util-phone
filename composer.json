@@ -1,0 +1,24 @@
+{
+  "name": "swatchion/phone",
+  "version": "1.0.0",
+  "description": "Query phone location",
+  "type": "library",
+  "homepage": "https://github.com/swatchion/php-phone",
+  "authors": [
+    {
+      "name": "swatchion",
+      "email": "swatchion@gmail.com"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "Swatchion\\Phone\\": "src/"
+    }
+  },
+  "minimum-stability": "stable",
+  "require": {
+    "php": ">=7.1",
+    "ext-json": "*"
+  },
+  "license": "MIT"
+}
